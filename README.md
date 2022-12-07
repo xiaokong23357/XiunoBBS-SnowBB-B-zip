@@ -2,6 +2,8 @@
 
 此开源库收集了xiunobbs正式版的安装包
 
+本开源根据官方要求，使用MIT协议开源
+
 [推荐查看这个](https://github.com/xiaokong23357/XiunoBBS-B-zip/blob/main/JK-README.md)
 
 关于该库的个人开源：https://github.com/jiix/xiunobbs
